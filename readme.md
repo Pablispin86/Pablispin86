@@ -16,7 +16,7 @@ Me interesa combinar mi experiencia comercial con la programación para desarrol
 
 Sistema de gestión escolar multiinstitución desarrollado como proyecto de aprendizaje.
 
-Tecnologías:** JavaScript, HTML, CSS, Supabase y PostgreSQL.
+Tecnologías: JavaScript, HTML, CSS, Supabase y PostgreSQL.
 
 Funcionalidades desarrolladas:
 - Gestión de alumnos y docentes.
