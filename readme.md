@@ -40,15 +40,15 @@ Proyecto orientado al aprendizaje de lógica de programación, eventos de teclad
 
  🛠️ Tecnologías y herramientas
 
-Desarrollo web:** HTML, CSS y JavaScript.
+Desarrollo web: HTML, CSS y JavaScript.
 
-Programación:** Python (en formación).
+Programación: Python (en formación).
 
-Bases de datos:** PostgreSQL y Supabase.
+Bases de datos: PostgreSQL y Supabase.
 
-Herramientas:** Git, GitHub, Visual Studio Code y Docker.
+Herramientas: Git, GitHub, Visual Studio Code y Docker.
 
-Automatización e IA:** n8n, ChatGPT y Codex.
+Automatización e IA: n8n, ChatGPT y Codex.
 
 ---
 
